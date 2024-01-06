@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-    basePath: '/Portfolio-Website',
-    assetPrefix: '/Portfolio-Website/',
+    basePath: '/Portfolio',
+    assetPrefix: '/Portfolio/',
     // Other configurations can be added here based on your project needs
   };
   

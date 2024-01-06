@@ -1,11 +1,11 @@
 # Portfolio Website
-![MasterHead](https://github.com/iSPYadav01/Portfolio-Website/blob/main/View.PNG)
+![MasterHead](https://github.com/iSPYadav01/Portfolio/blob/main/View.PNG)
 This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/judygab/portfolio-website.git`
-2. Navigate to the project directory: `cd portfolio-website`
+1. Clone the repository: `git clone https://github.com/judygab/Portfolio.git`
+2. Navigate to the project directory: `cd Portfolio`
 3. Install the dependencies: `npm install`
 
 ## Usage
