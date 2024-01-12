@@ -25,6 +25,7 @@
     "react-scripts": "^3.0.1"
   },
   "scripts": {
+    "export": "next export",
     "start": "next start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
