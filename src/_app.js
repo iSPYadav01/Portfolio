@@ -7,8 +7,8 @@ function MyApp({ components, pageProps }) {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Your description here" />
-        <title>Your App Title</title>
+        <meta name="description" content="S.Pratap Yadav" />
+        <title>Portfolio</title>
       </Head>
       <components {...pageProps} />
     </>
