@@ -20,7 +20,7 @@ const WorkExpeSection = () => {
           <h3 className="text-4xl font-bold text-white mb-4">Work Experience</h3>
           <h3 className="text-2xl font-bold text-white mb-4">Honeywell ✈️</h3>
           <h3 className="text-1xl font-bold text-white mb-4">✈ Software Engineer II</h3>
-          <h4 className="text-xs font-bold text-white mb-2">(Jan-2023 : Current, 📍 Bengaluru, KA)</h4>
+          <h4 className="text-xs font-bold text-white mb-2">(Jan-2024 : Current, 📍 Bengaluru, KA)</h4>
           <ul className="list-disc text-sm lg:text-base mb-4">
           <li>Design, Developement & and maintenance of the NewGen Flight Management System (FMS) software, overseeing collaboration with diverse teams.</li>
           <li>Develop and implement advanced algorithms to further enhance FMS functionality, focusing on navigation, guide, perf, datalink and safety.</li>
@@ -36,7 +36,7 @@ const WorkExpeSection = () => {
           <h3 className="text-1xl font-bold text-white mb-4"></h3>
 
           <h3 className="text-1xl font-bold text-white mb-4">✈ Software Engineer I</h3>
-          <h4 className="text-xs font-bold text-white mb-2">(Dec-2021 : Jan-2023, 📍 Bengaluru, KA)</h4>
+          <h4 className="text-xs font-bold text-white mb-2">(Dec-2021 : Jan-2024, 📍 Bengaluru, KA)</h4>
           <ul className="list-disc text-sm lg:text-base mb-4">
             <li>Developement and support for NewGen Flight Management System (FMS) software in collaboration with diverse teams.</li>
             <li>Implement innovative algorithms to enhance FMS functionality, improving navigation, fuel efficiency, and safety.</li>
