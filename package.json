@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^3.4.4"
   },
   "scripts": {
     "export": "next export",
